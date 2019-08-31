@@ -1,6 +1,6 @@
 # DHT_Unified_Sensor
 
-'''cpp
+```cpp
 
 // DHT Temperature & Humidity Sensor
 // Unified Sensor Library Example
@@ -87,3 +87,4 @@ void loop() {
     Serial.println(F("%"));
   }
 }
+```
